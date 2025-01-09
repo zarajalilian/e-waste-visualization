@@ -1,0 +1,182 @@
+[
+ {
+   "Entity": "Russia",
+   "Code": "RUS",
+   "total_boosters_per_hundred": 11.30
+ },
+ {
+   "Entity": "Germany",
+   "Code": "DEU",
+   "total_boosters_per_hundred": 19.40
+ },
+ {
+   "Entity": "Greece",
+   "Code": "GRC",
+   "total_boosters_per_hundred": 16.90
+ },
+ {
+   "Entity": "France",
+   "Code": "FRA",
+   "total_boosters_per_hundred": 21
+ },
+ {
+   "Entity": "Italy",
+   "Code": "ITA",
+   "total_boosters_per_hundred": 17.9
+ },
+ {
+   "Entity": "Spain",
+   "Code": "ESP",
+   "total_boosters_per_hundred": 19
+ },
+ {
+   "Entity": "Ukraine",
+   "Code": "UKR",
+   "total_boosters_per_hundred": 7.7
+ },
+ {
+   "Entity": "Poland",
+   "Code": "POL",
+   "total_boosters_per_hundred": 11.7
+ },
+ {
+   "Entity": "Netherlands",
+   "Code": "NLD",
+   "total_boosters_per_hundred": 21.6
+ },
+ {
+   "Entity": "Belgium",
+   "Code": "BEL",
+   "total_boosters_per_hundred": 20.40
+ },
+ {
+   "Entity": "Czech Republic",
+   "Code": "CZE",
+   "total_boosters_per_hundred": 15.7
+ },
+ {
+   "Entity": "Portugal",
+   "Code": "PRT",
+   "total_boosters_per_hundred": 16.6
+ },
+ {
+   "Entity": "Sweden",
+   "Code": "SWE",
+   "total_boosters_per_hundred": 20.1
+ },
+ {
+   "Entity": "Hungary",
+   "Code": "HUN",
+   "total_boosters_per_hundred": 13.6
+ },
+ {
+   "Entity": "Belarus",
+   "Code": "BLR",
+   "total_boosters_per_hundred": 9.3
+ },
+ {
+   "Entity": "Austria",
+   "Code": "AUT",
+   "total_boosters_per_hundred": 18.8
+ },
+ {
+   "Entity": "Serbia",
+   "Code": "SRB",
+   "total_boosters_per_hundred": 9.4
+ },
+ {
+   "Entity": "Switzerland",
+   "Code": "CHE",
+   "total_boosters_per_hundred": 23.4
+ },
+ {
+   "Entity": "Bulgaria",
+   "Code": "BGR",
+   "total_boosters_per_hundred": 11.7
+ },
+ {
+   "Entity": "Denmark",
+   "Code": "DNK",
+   "total_boosters_per_hundred": 22.4
+ },
+ {
+   "Entity": "Finland",
+   "Code": "FIN",
+   "total_boosters_per_hundred": 19.8
+ },
+ {
+   "Entity": "Slovakia",
+   "Code": "SVK",
+   "total_boosters_per_hundred": 12.8
+ },
+ {
+   "Entity": "Norway",
+   "Code": "NOR",
+   "total_boosters_per_hundred": 26
+ },
+ {
+   "Entity": "Ireland",
+   "Code": "IRL",
+   "total_boosters_per_hundred": 18.7
+ },
+ {
+   "Entity": "Croatia",
+   "Code": "HRV",
+   "total_boosters_per_hundred": 11.9
+ },
+ {
+   "Entity": "Moldova",
+   "Code": "MDA",
+   "total_boosters_per_hundred": 4
+ },
+ {
+   "Entity": "Bosnia and Herzegovina",
+   "Code": "BIH",
+   "total_boosters_per_hundred": 7.8
+ },
+ {
+   "Entity": "Albania",
+   "Code": "ALB",
+   "total_boosters_per_hundred": 7.4
+ },
+ {
+   "Entity": "Lithuania",
+   "Code": "LTU",
+   "total_boosters_per_hundred": 10.6
+ },
+ {
+   "Entity": "North Macedonia",
+   "Code": "MKD",
+   "total_boosters_per_hundred": 7.9
+ },
+ {
+   "Entity": "Slovenia",
+   "Code": "SVN",
+   "total_boosters_per_hundred": 13.1
+ },
+ {
+   "Entity": "Latvia",
+   "Code": "LVA",
+   "total_boosters_per_hundred": 10.6
+ },
+ {
+   "Entity": "Estonia",
+   "Code": "EST",
+   "total_boosters_per_hundred": 13.1
+ },
+ {
+   "Entity": "Montenegro",
+   "Code": "MNE",
+   "total_boosters_per_hundred": 10.7
+ },
+ {
+   "Entity": "Malta",
+   "Code": "MLT",
+   "total_boosters_per_hundred": 14.5
+ },
+ {
+   "Entity": "Iceland",
+   "Code": "ISL",
+   "total_boosters_per_hundred": 21.4
+ },
+]
